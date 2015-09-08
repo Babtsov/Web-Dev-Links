@@ -1,0 +1,14 @@
+# Web-Dev-Links
+A collection of links containing very helpful material for learning the various aspects of web development.
+
+#HTML
+* HTML forms: http://www.w3schools.com/html/html_forms.asp
+
+#Javascript
+* How does the event loop work: http://latentflip.com/loupe
+
+#MEAN stack
+* Collection of links about node.js from stackoverflow: http://bit.ly/1ezUSxo
+
+#Other
+* Intro to HTTP (and GET POST requests): http://bit.ly/1itroE6
