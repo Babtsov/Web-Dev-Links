@@ -8,8 +8,10 @@ A collection of links containing very helpful material for learning the various 
 * How does the event loop work: http://latentflip.com/loupe
 
 #MEAN stack
-* Collection of links about node.js from stackoverflow: http://bit.ly/1ezUSxo
+* nodeJS API: https://nodejs.org/api/
+* Collection of links about nodeJS from stackoverflow: http://bit.ly/1ezUSxo
 * AngularJS developer guide: https://docs.angularjs.org/guide
 
 #Other
+* Documentation for a lot of languages/frameworks: http://devdocs.io
 * Intro to HTTP (and GET POST requests): http://bit.ly/1itroE6
