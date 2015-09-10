@@ -9,6 +9,7 @@ A collection of links containing very helpful material for learning the various 
 
 #MEAN stack
 * Collection of links about node.js from stackoverflow: http://bit.ly/1ezUSxo
+* AngularJS developer guide: https://docs.angularjs.org/guide
 
 #Other
 * Intro to HTTP (and GET POST requests): http://bit.ly/1itroE6
