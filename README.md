@@ -5,7 +5,8 @@ A collection of links containing very helpful material for learning the various 
 * HTML forms: http://www.w3schools.com/html/html_forms.asp
 
 #Javascript
-* Javascript documentation https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+* Javascript language documentation: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+* Javascript in browser context: http://www.w3schools.com/jsref/default.asp 
 * How does the event loop work: http://latentflip.com/loupe
 
 #MEAN stack
